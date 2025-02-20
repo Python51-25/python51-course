@@ -1,3 +1,3 @@
 # python51-course
 
-📄 [Скачать урок (PDF)](https://raw.githubusercontent.com/RumbleJS/python51-course/Урок%20№%201/Материалы/Урок%20№%201%(HTML%20+%20CSS).pdf)
+📄 [Открыть урок (PDF)](https://github.com/RumbleJS/python51-course/blob/Урок%20№%201/Материалы/Урок%20№%201%20(HTML%20%2B%20CSS).pdf)
