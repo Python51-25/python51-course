@@ -1,5 +1,9 @@
 # python51-course
 
-## Полезные ресурсы
+# Учебный материал по GitHub
 
-- [GitHub для начинающих 2024]([[https://www.youtube.com/watch?v=zUzQG7hmdNM](https://www.youtube.com/watch?v=JfpCicDUMKc)](https://youtu.be/JfpCicDUMKc?si=P846Ic4UkMIOnYLo)) – GitHub для новичков.
+Для базового обучения работе с GitHub, посмотрите этот короткий видеоролик:
+
+[Основы GitHub - Основные операции](https://youtu.be/JfpCicDUMKc?si=P846Ic4UkMIOnYLo)
+
+В этом видео рассматриваются основные операции, такие как создание репозитория, добавление файлов, коммиты и синхронизация с удалённым репозиторием.
